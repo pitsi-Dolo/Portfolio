@@ -105,7 +105,7 @@ Welcome to my digital portfolio for the PRP370S assessment, submitted as part of
 ## ✅ CV Submission
 
 ### 📝 Evidence
-[[📄 View My CV (PDF)](https://github.com/pitsi-Dolo/Potfolio/blob/main/Katie%20Khezani%20Tolo.CV...pdf)]
+[[📄 View My CV (PDF)](https://github.com/pitsi-Dolo/Portfolio/blob/main/Katie%20Khezani%20Tolo.CV...pdf)]
 
 ### 🔁 Reflection (Using STAR Technique)
 
