@@ -17,7 +17,8 @@ Welcome to my digital portfolio for the PRP370S assessment, submitted as part of
 ## 💼 Career Counselling
 
 ### 📝 Evidence
-![image](https://github.com/user-attachments/assets/f444004c-18b2-4dc7-8555-5e95be92e5a4)
+![image](https://github.com/user-attachments/assets/e3584bab-4995-47aa-b105-14f583337405)
+
 
 
 ### 🔁 Reflection (Using STAR Technique)
@@ -39,7 +40,8 @@ Welcome to my digital portfolio for the PRP370S assessment, submitted as part of
 ## 🧠 Skills and Interests
 
 ### 📝 Evidence
-![image](https://github.com/user-attachments/assets/b0138ad3-4b3e-4e51-b7d9-4ae97581a807)
+![image](https://github.com/user-attachments/assets/ef5bc22a-a44d-412c-84f9-c3a6ec3495fb)
+
 
 
 ### 🔁 Reflection (Using STAR Technique)
@@ -61,7 +63,8 @@ Welcome to my digital portfolio for the PRP370S assessment, submitted as part of
 ## 🧬 Personality Assessment
 
 ### 📝 Evidence
-![image](https://github.com/user-attachments/assets/dc66f3e9-cc8f-4097-bc4e-b8841b8a3aba)
+![image](https://github.com/user-attachments/assets/42f67ba7-c018-41ec-aa0f-ee9e03c9f9c6)
+
 
 
 ### 🔁 Reflection (Using STAR Technique)
@@ -83,7 +86,8 @@ Welcome to my digital portfolio for the PRP370S assessment, submitted as part of
 ## 📃 Create a CV
 
 ### 📝 Evidence
-![image](https://github.com/user-attachments/assets/9c84e15a-e96c-47be-9784-abaa68b6af77)
+![image](https://github.com/user-attachments/assets/022a2e99-5c64-45f3-b1cf-facd92ba4e27)
+
 
 
 ### 🔁 Reflection (Using STAR Technique)
